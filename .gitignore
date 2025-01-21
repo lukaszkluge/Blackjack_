@@ -1,0 +1,22 @@
+# Pliki i katalogi Pythona
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Wirtualne środowisko
+venv/
+env/
+
+# Pliki konfiguracyjne
+*.env
+*.ini
+*.log
+
+# Pliki IDE
+.vscode/
+.idea/
+
+# Pliki testowe
+coverage/
+*.cover
